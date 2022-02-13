@@ -55,6 +55,7 @@ API key ile en popüler filmler data olarak alınmıştır.
 
 ### Acilis Sayfasi
 Uygulamanın açılış sayfası "HomePage" olarak belirlenmiştir.
+![Capture](https://user-images.githubusercontent.com/64756914/153733705-b982c53e-703f-45fd-b449-b35d259de3d3.PNG)
 
 ### Kaydirilabilir Gonderi Listesi
 Uygulama ilk çalıştığında API üzerinden gelen veriler home ekranında kaydırılabilir olarak listelenmektedir.
