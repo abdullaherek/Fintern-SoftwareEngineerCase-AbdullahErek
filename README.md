@@ -39,7 +39,7 @@ Senaryo:
 
 [5-)](#sayfa-yenileme) Sayfa en üstten çekildiğinde yenileme işlemi yapılacaktır.
 
-[6-)](#siramala) Sayfa aşağı kaydırıldığında daha eski gönderiler yüklenecektir.
+[6-)](#siralama) Sayfa aşağı kaydırıldığında daha eski gönderiler yüklenecektir.
 
 [7-)](#gonderi-detayi) Her gönderinin kendine ait tekil bir sayfası olacaktır.
 
