@@ -55,25 +55,32 @@ API key ile en popüler filmler data olarak alınmıştır.
 
 ### Acilis Sayfasi
 Uygulamanın açılış sayfası "HomePage" olarak belirlenmiştir.
-![Capture](https://user-images.githubusercontent.com/64756914/153733705-b982c53e-703f-45fd-b449-b35d259de3d3.PNG)
+![Capture](https://user-images.githubusercontent.com/64756914/153733762-97e8a7a2-74de-4a4d-8975-daee6b15c472.PNG)
 
 ### Kaydirilabilir Gonderi Listesi
 Uygulama ilk çalıştığında API üzerinden gelen veriler home ekranında kaydırılabilir olarak listelenmektedir.
+Alttaki görselde sağda kaydırma çubuğu görülmektedir.
+![Capture](https://user-images.githubusercontent.com/64756914/153733796-011b3767-1d65-4664-9122-0aa74c36c0cf.PNG)
 
 ### Gonderi Bicimi
 Ana ekranda her gönderinin başlığı, 100 karakterden oluşan kısa özeti, çıkış tarihi ve IMDB puanı yer almaktadır.
+Üstteki görsellerde gönderi biçimi görülmektedir.
 
 ### Sayfa Yenileme
 Uygulamada yer alırken en üstten çekildiğinde sayfa tekrar yüklenmektedir. Sayfa tekrar yüklenirken veriler
-API üzerinden tekrar çekilmektedir.
+API üzerinden tekrar çekilmektedir. Alltaki görselde yenileme ikonu görülmektedir.
+![Capture](https://user-images.githubusercontent.com/64756914/153733811-50a42626-a69f-4884-9b43-ad14d33b7a80.PNG)
 
 ### Siralama
 Uygulama içerisindeki gönderiler filmlerin çıkış tarihine göre sıralanmaktadır. En yeni film en üstte, çıkış tarihi
 en eski olan film en altta sıralanmaktadır.
+Üstteki görsellerde ve gönderi biçiminde tarihe göre bir sıralama olduğu gösterilmiştir. Bunun için sort ve reverse
+fonskiyonları kullanılmıştır.
 
 ### Gonderi Detayi
 Her gönderinin bir detay sayfası bulunmaktadır. Başlık üzerine tıklandığında o filmin açıklamasının tamamı, başlığı, çıkış tarihi
-ve posteri detay sayfasında yer almaktadır.
+ve posteri detay sayfasında yer almaktadır. Alttaki görsel detay sayfasına aittir.
+![Capture](https://user-images.githubusercontent.com/64756914/153733855-30319a9a-0d32-4f3b-8768-1008209ed813.PNG)
 
 ### Geri Donus Islemi
 Detay sayfasından geri dönüş işlemi yapıldığında ana sayfaya geri dönülür ve en son kaydırma işlemi nerede kaldıysa aynı yere gelinmiş olur.
