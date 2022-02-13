@@ -49,32 +49,32 @@ varken, detay görünümünde içeriğin tamamı gelmelidir.
 [9-)](#geri-donus-islemi) Detay sayfasından ana sayfaya geri dönülmelidir ve daha önce
 kaydırma yapılan pozisyona geri dönülmelidir.
 
-### API İşlemleri
+### API İslemleri
 Uygulamada bir film datası barındıran The MovieDB API kullanılmıştır. (https://www.themoviedb.org/documentation/api?language=tr)
 API key ile en popüler filmler data olarak alınmıştır.
 
-### Açılış Sayfası
+### Acilis Sayfasi
 Uygulamanın açılış sayfası "HomePage" olarak belirlenmiştir.
 
-### Kaydırılabilir Gönderi Listesi
+### Kaydirilabilir Gonderi Listesi
 Uygulama ilk çalıştığında API üzerinden gelen veriler home ekranında kaydırılabilir olarak listelenmektedir.
 
-### Gönderi Biçimi
+### Gönderi Bicimi
 Ana ekranda her gönderinin başlığı, 100 karakterden oluşan kısa özeti, çıkış tarihi ve IMDB puanı yer almaktadır.
 
 ### Sayfa Yenileme
 Uygulamada yer alırken en üstten çekildiğinde sayfa tekrar yüklenmektedir. Sayfa tekrar yüklenirken veriler
 API üzerinden tekrar çekilmektedir.
 
-### Sıralama
+### Siralama
 Uygulama içerisindeki gönderiler filmlerin çıkış tarihine göre sıralanmaktadır. En yeni film en üstte, çıkış tarihi
 en eski olan film en altta sıralanmaktadır.
 
-### Gönderi Detayı
+### Gonderi Detayi
 Her gönderinin bir detay sayfası bulunmaktadır. Başlık üzerine tıklandığında o filmin açıklamasının tamamı, başlığı, çıkış tarihi
 ve posteri detay sayfasında yer almaktadır.
 
-### Geri Dönüş İşlemi
+### Geri Donus Islemi
 Detay sayfasından geri dönüş işlemi yapıldığında ana sayfaya geri dönülür ve en son kaydırma işlemi nerede kaldıysa aynı yere gelinmiş olur.
 Kısaca, geri dönüş işlemlerinde sayfa yeniden yüklenmez ve en üstten başlamaz.
 
