@@ -49,7 +49,7 @@ varken, detay görünümünde içeriğin tamamı gelmelidir.
 [9-)](#geri-donus-islemi) Detay sayfasından ana sayfaya geri dönülmelidir ve daha önce
 kaydırma yapılan pozisyona geri dönülmelidir.
 
-### API İslemleri
+### Api İslemleri
 Uygulamada bir film datası barındıran The MovieDB API kullanılmıştır. (https://www.themoviedb.org/documentation/api?language=tr)
 API key ile en popüler filmler data olarak alınmıştır.
 
@@ -59,7 +59,7 @@ Uygulamanın açılış sayfası "HomePage" olarak belirlenmiştir.
 ### Kaydirilabilir Gonderi Listesi
 Uygulama ilk çalıştığında API üzerinden gelen veriler home ekranında kaydırılabilir olarak listelenmektedir.
 
-### Gönderi Bicimi
+### Gonderi Bicimi
 Ana ekranda her gönderinin başlığı, 100 karakterden oluşan kısa özeti, çıkış tarihi ve IMDB puanı yer almaktadır.
 
 ### Sayfa Yenileme
